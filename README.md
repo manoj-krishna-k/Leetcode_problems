@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0045-jump-game-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0455-assign-cookies) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0455-assign-cookies) |
 | [1331-rank-transform-of-an-array](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1331-rank-transform-of-an-array) |
@@ -46,4 +48,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
