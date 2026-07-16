@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0045-jump-game-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0455-assign-cookies) |
@@ -16,12 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0455-assign-cookies) |
 | [1331-rank-transform-of-an-array](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1331-rank-transform-of-an-array) |
@@ -37,5 +40,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0455-assign-cookies) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
