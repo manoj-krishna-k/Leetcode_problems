@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0045-jump-game-ii) |
+| [0070-climbing-stairs](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0131-palindrome-partitioning) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
