@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0045-jump-game-ii) |
 | [0268-missing-number](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0045-jump-game-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0456-132-pattern](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0456-132-pattern) |
