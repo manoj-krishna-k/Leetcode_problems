@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0456-132-pattern) |
+| [0500-keyboard-row](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0500-keyboard-row) |
 | [1331-rank-transform-of-an-array](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0500-keyboard-row](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0500-keyboard-row) |
 | [1331-rank-transform-of-an-array](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0131-palindrome-partitioning) |
+| [0500-keyboard-row](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0500-keyboard-row) |
 ## Backtracking
 |  |
 | ------- |
