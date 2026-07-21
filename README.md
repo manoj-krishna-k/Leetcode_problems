@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0143-reorder-list](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0143-reorder-list) |
 | [0349-intersection-of-two-arrays](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0455-assign-cookies) |
 ## Binary Search
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0143-reorder-list) |
 | [0456-132-pattern](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0456-132-pattern) |
 ## Monotonic Stack
 |  |
@@ -139,12 +141,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0143-reorder-list) |
 | [0509-fibonacci-number](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0509-fibonacci-number) |
 ## Linked List
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0143-reorder-list](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0143-reorder-list) |
 ## Prefix Sum
 |  |
 | ------- |
