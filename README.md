@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0183-customers-who-never-order) |
 | [0511-game-play-analysis-i](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0511-game-play-analysis-i) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0619-biggest-single-number](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1068-product-sales-analysis-i) |
