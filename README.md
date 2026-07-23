@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0045-jump-game-ii) |
 | [0152-maximum-product-subarray](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0200-number-of-islands) |
 | [0228-summary-ranges](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0268-missing-number) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1260-shift-2d-grid](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1260-shift-2d-grid) |
 ## Math
@@ -166,4 +168,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1260-shift-2d-grid) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
