@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0509-fibonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1143-longest-common-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0290-word-pattern) |
 | [0500-keyboard-row](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0500-keyboard-row) |
+| [1143-longest-common-subsequence](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
 |  |
 | ------- |
