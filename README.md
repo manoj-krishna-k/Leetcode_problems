@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0268-missing-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3950-exactly-one-consecutive-set-bits-pair](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
 ## Stack
 |  |
 | ------- |
