@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0506-relative-ranks) |
 | [1331-rank-transform-of-an-array](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1331-rank-transform-of-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
