@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0290-word-pattern) |
 | [0500-keyboard-row](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0500-keyboard-row) |
+| [0657-robot-return-to-origin](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0657-robot-return-to-origin) |
 | [1143-longest-common-subsequence](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
 |  |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0657-robot-return-to-origin) |
 | [1260-shift-2d-grid](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1260-shift-2d-grid) |
 ## Depth-First Search
 |  |
