@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0045-jump-game-ii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0055-jump-game) |
+| [0090-subsets-ii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0090-subsets-ii) |
 | [0139-word-break](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0198-house-robber) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0268-missing-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3950-exactly-one-consecutive-set-bits-pair](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0131-palindrome-partitioning) |
 ## Memoization
 |  |
