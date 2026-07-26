@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0023-merge-k-sorted-lists) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0506-relative-ranks) |
 ## Matrix
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0023-merge-k-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0143-reorder-list](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0143-reorder-list) |
 ## Prefix Sum
@@ -221,8 +223,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0023-merge-k-sorted-lists) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0547-number-of-provinces) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
