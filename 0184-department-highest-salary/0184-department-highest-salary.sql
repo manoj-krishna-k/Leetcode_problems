@@ -1,0 +1,2 @@
+/* Write your PL/SQL query statement below */
+select department,employee,salary from (select d.name as department, e.name as employee,e.salary as salary,DENSE_RANK() OVER(PARTITION BY e.departmentId ORDER BY e.salary DESC) AS rnk from Employee e left join Department d on e.departmentId=d.id ) where rnk=1;
