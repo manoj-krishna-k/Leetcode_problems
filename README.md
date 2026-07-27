@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0055-jump-game) |
 | [0090-subsets-ii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0090-subsets-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0198-house-robber) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0268-missing-number) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0547-number-of-provinces) |
 ## Trie
