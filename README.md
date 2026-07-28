@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1084-sales-analysis-iii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1084-sales-analysis-iii) |
 | [1251-average-selling-price](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1251-average-selling-price) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1327-list-the-products-ordered-in-a-period) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1741-find-total-time-spent-by-each-employee) |
 ## Array
 |  |
 | ------- |
