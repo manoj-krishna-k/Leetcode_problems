@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
 |  |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0500-keyboard-row) |
 | [0657-robot-return-to-origin](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0657-robot-return-to-origin) |
 | [1143-longest-common-subsequence](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1143-longest-common-subsequence) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -245,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0148-sort-list) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
