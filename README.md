@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0031-next-permutation](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0031-next-permutation) |
 | [0045-jump-game-ii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0055-jump-game) |
 | [0090-subsets-ii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0090-subsets-ii) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0031-next-permutation) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0143-reorder-list](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0148-sort-list) |
