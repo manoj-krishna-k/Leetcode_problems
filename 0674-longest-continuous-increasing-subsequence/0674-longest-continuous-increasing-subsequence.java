@@ -7,7 +7,7 @@ class Solution {
             int j=i+1;
             while(j<nums.length && nums[j]>nums[j-1])j++;
             max=Math.max(j-i,max);
-            i++;
+            i=j;
 
         }
         return max;
