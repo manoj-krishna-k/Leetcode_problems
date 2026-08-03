@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0648-replace-words](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0648-replace-words) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0877-stone-game](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1260-shift-2d-grid) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0575-distribute-candies) |
+| [0648-replace-words](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0648-replace-words) |
 | [1331-rank-transform-of-an-array](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
 |  |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0290-word-pattern) |
 | [0500-keyboard-row](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0500-keyboard-row) |
+| [0648-replace-words](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0648-replace-words) |
 | [0657-robot-return-to-origin](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0657-robot-return-to-origin) |
 | [1143-longest-common-subsequence](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1143-longest-common-subsequence) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0139-word-break) |
+| [0648-replace-words](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0648-replace-words) |
 ## Divide and Conquer
 |  |
 | ------- |
