@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0575-distribute-candies) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0648-replace-words](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0648-replace-words) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0575-distribute-candies) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0648-replace-words](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0692-top-k-frequent-words) |
 | [1002-find-common-characters](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1002-find-common-characters) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0290-word-pattern) |
 | [0394-decode-string](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0394-decode-string) |
 | [0500-keyboard-row](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0500-keyboard-row) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0648-replace-words](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0648-replace-words) |
 | [0657-robot-return-to-origin](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0657-robot-return-to-origin) |
 | [0692-top-k-frequent-words](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0692-top-k-frequent-words) |
