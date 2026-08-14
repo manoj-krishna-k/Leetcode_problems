@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1331-rank-transform-of-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0692-top-k-frequent-words) |
 | [1002-find-common-characters](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1002-find-common-characters) |
 | [1143-longest-common-subsequence](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1143-longest-common-subsequence) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Backtracking
 |  |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Tree
 |  |
 | ------- |
