@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1563-stone-game-v](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1143-longest-common-subsequence) |
 | [1510-stone-game-iv](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1563-stone-game-v) |
 ## Greedy
 |  |
 | ------- |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1563-stone-game-v) |
 ## Bucket Sort
 |  |
 | ------- |
