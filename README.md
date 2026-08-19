@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0070-climbing-stairs) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0143-reorder-list) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0061-rotate-list) |
