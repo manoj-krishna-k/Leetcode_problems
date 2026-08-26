@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1002-find-common-characters) |
 | [1143-longest-common-subsequence](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1143-longest-common-subsequence) |
 | [1927-sum-game](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1927-sum-game) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Backtracking
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Tree
