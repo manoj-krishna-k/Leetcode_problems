@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0456-132-pattern) |
 | [0486-predict-the-winner](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0491-non-decreasing-subsequences) |
+| [0494-target-sum](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0503-next-greater-element-ii) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1140-stone-game-ii) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0131-palindrome-partitioning) |
 | [0491-non-decreasing-subsequences](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0491-non-decreasing-subsequences) |
+| [0494-target-sum](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0494-target-sum) |
 ## Memoization
 |  |
 | ------- |
@@ -438,4 +441,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0144-binary-tree-preorder-traversal) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
