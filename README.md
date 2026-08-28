@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0648-replace-words](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0648-replace-words) |
 | [0665-non-decreasing-array](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0665-non-decreasing-array) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0692-top-k-frequent-words) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0509-fibonacci-number) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0877-stone-game](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1143-longest-common-subsequence) |
@@ -449,4 +451,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0494-target-sum) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
