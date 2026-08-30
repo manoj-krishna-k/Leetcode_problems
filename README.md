@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3731-find-missing-elements](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/3731-find-missing-elements) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0657-robot-return-to-origin) |
 | [1260-shift-2d-grid](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1260-shift-2d-grid) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Depth-First Search
 |  |
 | ------- |
