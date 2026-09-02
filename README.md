@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0217-contains-duplicate) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0143-reorder-list](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0148-sort-list) |
+| [0189-rotate-array](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0486-predict-the-winner) |
