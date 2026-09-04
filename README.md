@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0045-jump-game-ii) |
+| [0054-spiral-matrix](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0064-minimum-path-sum) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0200-number-of-islands) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0657-robot-return-to-origin) |
