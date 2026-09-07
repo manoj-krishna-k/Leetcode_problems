@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
 | [0318-maximum-product-of-word-lengths](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0318-maximum-product-of-word-lengths) |
+| [0321-create-maximum-number](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0321-create-maximum-number) |
 | [0349-intersection-of-two-arrays](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0321-create-maximum-number) |
 | [0455-assign-cookies](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0561-array-partition) |
 | [1927-sum-game](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1927-sum-game) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0287-find-the-duplicate-number) |
+| [0321-create-maximum-number](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0321-create-maximum-number) |
 | [0349-intersection-of-two-arrays](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0455-assign-cookies) |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0321-create-maximum-number) |
 | [0394-decode-string](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0394-decode-string) |
 | [0456-132-pattern](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0496-next-greater-element-i) |
@@ -291,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0321-create-maximum-number) |
 | [0456-132-pattern](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0503-next-greater-element-ii) |
