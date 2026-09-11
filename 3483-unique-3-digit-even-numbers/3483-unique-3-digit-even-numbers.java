@@ -1,0 +1,28 @@
+class Solution {
+    public int totalNumbers(int[] digits) {
+        int[] freq=new int[10];
+        for(int i=0;i<digits.length;i++){
+            freq[digits[i]]++;
+        }
+        int count=0;
+        for(int num=100;num<1000;num++){
+            if(num%2!=0)continue;
+            int a=num/100;
+            int b=(num/10)%10;
+            int c=num%10;
+            int used[]=new int[10];
+            used[a]++;
+            used[b]++;
+            used[c]++;
+            boolean possible=true;
+            for(int j=0;j<10;j++){
+                if(used[j]>freq[j]){
+                    possible=false;
+                    break;
+                }
+            }
+            if(possible)count++;
+
+        }return count;
+    }
+}
