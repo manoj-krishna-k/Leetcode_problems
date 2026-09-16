@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
 | [0318-maximum-product-of-word-lengths](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0318-maximum-product-of-word-lengths) |
 | [0321-create-maximum-number](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0321-create-maximum-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0321-create-maximum-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0561-array-partition) |
 | [1927-sum-game](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1927-sum-game) |
@@ -514,5 +516,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Longest Increasing Subsequence
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
