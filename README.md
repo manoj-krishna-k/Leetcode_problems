@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
 | [0318-maximum-product-of-word-lengths](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0318-maximum-product-of-word-lengths) |
 | [0321-create-maximum-number](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0321-create-maximum-number) |
+| [0322-coin-change](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0494-target-sum) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0547-number-of-provinces) |
 ## Union-Find
 |  |
@@ -517,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
@@ -535,4 +539,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
