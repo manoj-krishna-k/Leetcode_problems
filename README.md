@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0238-product-of-array-except-self) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
@@ -492,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
