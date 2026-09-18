@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0139-word-break) |
+| [0202-happy-number](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0268-missing-number) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0321-create-maximum-number](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0321-create-maximum-number) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0486-predict-the-winner) |
@@ -546,4 +549,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0322-coin-change) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
