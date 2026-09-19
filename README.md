@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0064-minimum-path-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0217-contains-duplicate) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0148-sort-list) |
