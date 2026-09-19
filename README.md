@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0877-stone-game) |
 | [1002-find-common-characters](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1002-find-common-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1331-rank-transform-of-an-array) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0456-132-pattern](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0456-132-pattern) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1004-max-consecutive-ones-iii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Heap (Priority Queue)
 |  |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1140-stone-game-ii) |
 | [3903-smallest-stable-index-i](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/3904-smallest-stable-index-ii) |
@@ -509,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
