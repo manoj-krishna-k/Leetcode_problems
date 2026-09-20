@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0509-fibonacci-number) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0321-create-maximum-number) |
 | [0349-intersection-of-two-arrays](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0455-assign-cookies) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [1768-merge-strings-alternately](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1768-merge-strings-alternately) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0318-maximum-product-of-word-lengths) |
+| [0392-is-subsequence](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0394-decode-string) |
 | [0500-keyboard-row](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0500-keyboard-row) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
