@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0033-search-in-rotated-sorted-array) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0031-next-permutation) |
