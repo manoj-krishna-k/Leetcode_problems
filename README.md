@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0321-create-maximum-number](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0321-create-maximum-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0392-is-subsequence) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0318-maximum-product-of-word-lengths) |
+| [0345-reverse-vowels-of-a-string](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0394-decode-string) |
 | [0500-keyboard-row](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0500-keyboard-row) |
