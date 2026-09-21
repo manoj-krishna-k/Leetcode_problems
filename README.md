@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1563-stone-game-v](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1563-stone-game-v) |
+| [1672-richest-customer-wealth](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0835-image-overlap](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1260-shift-2d-grid) |
+| [1672-richest-customer-wealth](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1672-richest-customer-wealth) |
 ## Math
 |  |
 | ------- |
