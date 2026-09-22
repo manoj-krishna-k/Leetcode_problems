@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0202-happy-number) |
+| [0223-rectangle-area](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0223-rectangle-area) |
 | [0258-add-digits](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0486-predict-the-winner) |
@@ -603,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0223-rectangle-area) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Euclidean Algorithm
 |  |
