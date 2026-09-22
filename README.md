@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0088-merge-sorted-array) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0090-subsets-ii) |
 | [0260-single-number-iii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0268-missing-number) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0131-palindrome-partitioning) |
 | [0491-non-decreasing-subsequences](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0491-non-decreasing-subsequences) |
