@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0692-top-k-frequent-words) |
+| [0724-find-pivot-index](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0835-image-overlap](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0877-stone-game) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1140-stone-game-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
