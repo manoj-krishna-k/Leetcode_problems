@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0144-binary-tree-preorder-traversal) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0087-scramble-string](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0087-scramble-string) |
 | [0131-palindrome-partitioning](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0139-word-break) |
@@ -638,4 +640,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1071-greatest-common-divisor-of-strings) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
