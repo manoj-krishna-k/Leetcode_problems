@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/3536-maximum-product-of-two-digits) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1768-merge-strings-alternately) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Binary Search
 |  |
 | ------- |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
