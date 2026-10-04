@@ -461,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0092-reverse-linked-list-ii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0148-sort-list) |
