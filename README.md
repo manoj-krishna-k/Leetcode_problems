@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1140-stone-game-ii) |
+| [1207-unique-number-of-occurrences](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/0692-top-k-frequent-words) |
 | [1002-find-common-characters](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1002-find-common-characters) |
+| [1207-unique-number-of-occurrences](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1331-rank-transform-of-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/manoj-krishna-k/Leetcode_problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
